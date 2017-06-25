@@ -25,7 +25,8 @@
     "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
